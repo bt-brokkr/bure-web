@@ -1,1 +1,1 @@
-Repository for the Bure Technology landing page.
+Repository for Bure Technology home page.
